@@ -1,4 +1,7 @@
-# Third-Person Survival Arena  
+[![GitHub Release](https://img.shields.io/github/v/release/MathisZUCCHERO/ThirdPersonSurvivalGame?color=blue)](https://github.com/MathisZUCCHERO/ThirdPersonSurvivalGame/releases)
+
+
+# Third-Person Survival Arena
 **Course:** 3D Game Basics — KMU 2025  
 **Engine:** Unity 2022 LTS  
 **Author:** ZUCCHERO MATHIS 7702284  
@@ -151,6 +154,14 @@ Assets/
 
 ## 📄 License
 This project is open-source under the **MIT License**  
+
+---
+
+## 📥 Download Playable Build
+You can download the latest playable version here:
+
+👉 **[Download v1.0.0](https://github.com/MathisZUCCHERO/ThirdPersonSurvivalGame/releases/latest)**  
+(Windows x86_64 – Extract and run `ThirdPersonSurvivalGame.exe`)
 
 ---
 
