@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e04534cd2d76c5e4ca156b31a2a069b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winPanel: {fileID: 2837834363902193396, guid: ba27d5062dae0d84db4714035d16065c, type: 3}
+  - losePanel: {fileID: 3106864441611688027, guid: a3bf61ff866741b41b9387670a4f37be, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
