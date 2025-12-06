@@ -127,6 +127,7 @@ Entering this zone triggers the Mission Complete screen.
 
 ## 📦 Project Structure
 
+```
 Assets/
 ├── Scripts/
 │ ├── Player/
@@ -140,7 +141,7 @@ Assets/
 ├── VFX/
 ├── Scenes/
 │ └── MainScene.unity
-
+```
 
 ---
 
