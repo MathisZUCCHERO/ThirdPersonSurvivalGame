@@ -19,6 +19,27 @@ public class GameManager : MonoBehaviour
     {
         instance = this;
     }
+    
+    void Update()
+    {
+        // Quit game with Escape
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            QuitGame();
+        }
+    }
+    
+    public void QuitGame()
+    {
+#if UNITY_EDITOR
+        // Stop play mode inside Unity Editor
+        UnityEditor.EditorApplication.isPlaying = false;
+#else
+    // Quit application in build
+    Application.Quit();
+#endif
+    }
+
 
     public void WinGame()
     {
